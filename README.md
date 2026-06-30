@@ -65,7 +65,7 @@ My primary contributions included:
 
 - graduation_analysis_report.pdf: Detailed project report
 - stepwise_regression.R: R implementation of the stepwise regression analysis
-- data folder: Public datasets used for the analysis
+- data folder: Public datasets used for the analysis as well as a combined data file
 
 ## Dataset
 
